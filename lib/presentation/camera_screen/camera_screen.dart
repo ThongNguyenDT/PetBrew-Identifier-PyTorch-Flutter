@@ -115,17 +115,17 @@ class _CameraScreen extends State<CameraScreen> {
                       ),
                     ),
                     SizedBox(height: 7.v),
-                    Padding(
-                      padding: EdgeInsets.only(left: 23.h),
-                      child: CustomIconButton(
-                        height: 34.v,
-                        width: 38.h,
-                        padding: EdgeInsets.all(3.h),
-                        child: CustomImageView(
-                          imagePath: ImageConstant.imgArrowDown,
-                        ),
-                      ),
-                    )
+                    // Padding(
+                    //   padding: EdgeInsets.only(left: 23.h),
+                      // child: CustomIconButton(
+                      //   height: 34.v,
+                      //   width: 38.h,
+                      //   padding: EdgeInsets.all(3.h),
+                        // child: CustomImageView(
+                        //   imagePath: ImageConstant.imgArrowDown,
+                        // ),
+                      // ),
+                    // )
                   ],
                 ),
               ),
