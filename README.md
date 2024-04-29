@@ -64,7 +64,7 @@ Update soon
 
 <h2 align="center">Screenshots</h2>
 
-| <img src="assets/images/Screenshot_1.png" alt="Screenshot 1"  height="500px"/><br/>Gallery Screen | <img src="assets/images/Screenshot_2.png" alt="Screenshot 2" height="500px"/><br/>Camera Screen |
+| <img src="assets/images/Screenshot_1.png" alt="Screenshot 1"  height="700px"/><br/>Gallery Screen | <img src="assets/images/Screenshot_2.png" alt="Screenshot 2" height="700px"/><br/>Camera Screen |
 |:------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|
 
 
